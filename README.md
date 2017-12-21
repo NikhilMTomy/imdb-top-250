@@ -6,7 +6,7 @@ Download IMDB top 250 list
 `imdb-top.py [-h] [-p] [-v] [-o OUTPUT]`
 
 optional arguments:
-  -h, --help            		show this help message and exit
+`  -h, --help            		show this help message and exit
   -p, --poster          		Download posters of the movies too
   -v, --verbose         		Verbose output
-  -o OUTPUT, --output OUTPUT 	File to write the list
+  -o OUTPUT, --output OUTPUT 	File to write the list`
